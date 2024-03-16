@@ -1,3 +1,11 @@
-# demo 2
+# Demo 2
 
-some text
+Some Description
+
+## Subheader
+
+Check this out!
+
+## Local Development
+
+1. Open index.html in your browser
